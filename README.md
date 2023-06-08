@@ -80,7 +80,7 @@ To visualize the data and gain insights, you can utilize the "realestate tableau
 Please refer to the respective notebooks and files mentioned above for a step-by-step guide and detailed instructions on how to use the code and resources for the analysis.
 
 
-### *Contributors*
+## *Contributors*
 - Sai Vasavi Harshavardhan Gupta Somisetty
 - Naga Venkata Surya Sai Tanmai Raavi
 - Sri Teja Kumar Reddy Tetali
